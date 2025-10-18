@@ -1,5 +1,3 @@
-Sure — here’s a clean, copy-paste-ready version of your **README.md**:
-
 ```markdown
 # Shah Yash Midterm Project
 
